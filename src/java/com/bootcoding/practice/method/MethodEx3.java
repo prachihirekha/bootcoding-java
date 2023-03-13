@@ -9,7 +9,7 @@ public class MethodEx3 {
         int n = 57;
         for (int j = 5; j <= n; j++) {
             if (j % 5 == 0) {
-                System.out.println(j + "divisible by 5");
+                System.out.println(j + "  is divisible by 5");
             }
 
         }
