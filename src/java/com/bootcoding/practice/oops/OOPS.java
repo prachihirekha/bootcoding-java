@@ -4,10 +4,11 @@ public class OOPS {
     public static void main(String[] args) {
         //object create
         Student student = new Student();
-        student.name="Prachi";
+        //student.name="Prachi";
         student.lastName ="Hirekhan";
-        student.age=10;
+       // student.age=10;
         student.standard =4;
+        Student s2 =new Student(student);
         student.details();
     }
 }
