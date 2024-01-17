@@ -2,7 +2,8 @@ package com.bootcoding.practice.practice;
 
 import java.util.Scanner;
 
-public class PrimeNumber {public class ScannerEx1 {
+public class PrimeNumber {
+    public class ScannerEx1 {
 
     public static void main(String[] args) {
 
